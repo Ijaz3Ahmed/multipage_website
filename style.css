@@ -1,0 +1,40 @@
+body{
+    
+    background: #fc0d0d;
+}
+
+.login_div1 , .login_div2{
+    
+    background: white;
+    width: 30%;
+     height: 60%;
+    padding: 15px;
+    border-radius:15px; 
+}
+#player1_name ,#player2_name{
+    display: grid #12e07d;
+    margin-left: 20px;
+        
+}
+.gameplay{
+     background: white;
+    width: 30%;
+    height: 30%;
+    padding: 15px;
+    border-radius:15px; 
+    
+}
+.result{
+    background: white;
+    width: 20%;
+    height: 20%;
+    padding: 5px;
+    border-radius: 15px;
+}
+h1, h2{
+    font-family: cursive;
+    font-size: 35px;
+}
+h4{
+    font-family: cursive
+}
